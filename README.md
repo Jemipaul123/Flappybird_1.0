@@ -1,4 +1,4 @@
-# bubble_game
+# Flappy_bird_1.0
 
 A new Flutter project.
 
